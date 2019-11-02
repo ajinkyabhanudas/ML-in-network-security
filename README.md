@@ -5,3 +5,5 @@
 - Optimizations on this code
 - Supporting models to execute the code end-end
 - Probably would even add a simple UI to test it out online
+
+## The model accuracy was around 92%
